@@ -1,5 +1,5 @@
 # Numpy-library-tutorial
-<img style=center src=numpy.png width=300px height=300px>
+<img src=numpy.png width=300px height=300px>
 <br>
 <b>
 Hello everyone,
