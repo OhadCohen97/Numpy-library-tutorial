@@ -1,6 +1,6 @@
 # Numpy-library-tutorial
-<p aline="center"> <img src=numpy.png width=300px height=300px></p>
-<br>
+<p align="center"> <img src=numpy.png width=300px height=300px></p>
+
 <b>
 Hello everyone,
 I've been working with Numpy for a long time, one of my favorite libraries in Python and I decided to share with you a brief explanation and also upload to GitHub on Jupyter some code snippets that show a little more in-depth the power of Numpy.
